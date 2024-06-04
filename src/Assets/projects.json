@@ -1,0 +1,21 @@
+{
+    "projects":[
+        {
+            "name":"PMS",
+            "domain":"Airways",
+            "Client":"Qatar Airways",
+            "description":"Project Management System for the Qatar Airways Group.",
+            "company":"Cognizant"
+
+        },
+        {
+            "name":"SILA",
+            "domain":"Enterprise Application",
+            "Client" : "Sila Informatics Pvt Ltd",
+            "description":"Enterprise application for SILA",
+            "company":"PurpleTalk"
+
+        }
+       
+    ]
+}
