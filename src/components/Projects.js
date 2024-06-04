@@ -4,7 +4,10 @@ import Project from "./Project";
 import { Container, Row, Col } from "react-bootstrap";
 const Projects = () => {
   return (
-    <Container fluid style={{ marginTop: "1.5rem" }}>
+    <Container fluid style={{ marginTop: "2.5rem" }}>
+      <h3>
+        <b>Work Experience:</b>
+      </h3>
       <Row style={{ alignItems: "center" }}>
         {jsonData.projects.map((project) => (
           <Col md={6}>

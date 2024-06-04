@@ -11,6 +11,7 @@
     margin:auto;
     border:1px solid white;
     padding:2rem;
+    min-height: 100vh;
    
    
 }
@@ -145,6 +146,8 @@ header{
 .skill :hover{
     transform:scale(1.5em)
 }
+
+
 .my-image{
     width:300px;
     height:300px;
@@ -240,5 +243,10 @@ header{
     height:auto;
     width:100%;
   }
-
+.imag-circle{
+    width:100px;
+    height: 100px;
+    border-radius:50%;
+ 
+}
 
