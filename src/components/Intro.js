@@ -7,7 +7,7 @@ const Intro = () => {
         <Row>
           <Col md={6} xs={10}>
             <section>
-              <h1>LET ME INTRODUCE MYSELF</h1>
+              <h3>LET ME INTRODUCE MYSELF</h3>
               <p>Over 6 years of experrience in working in React.JS</p>
               <p>
                 Expertise in{" "}
@@ -19,7 +19,9 @@ const Intro = () => {
                 As a front-end developer worked on multiple domains like
                 airways, enterprise, healthcar, ecommerce
               </p>
-              <p>I always update my skills </p>
+              <p>
+                I always staying up to date with latest trends and technologies{" "}
+              </p>
             </section>
           </Col>
           <Col md={6} xs={10} style={{ textAlign: "center" }}>

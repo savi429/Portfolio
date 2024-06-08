@@ -1,15 +1,19 @@
 import femaleImage from "./../Assets/images/4706239.png";
 import Intro from "./Intro";
 import Typewriter from "typewriter-effect";
-import BgParticle from "./BackgroundParticles";
-
 import { Container, Row, Col } from "react-bootstrap";
 
 const Home = () => {
   return (
-    <div style={{ paddingLeft: "160px", paddingRight: "2.5rem" }}>
-      <Container fluid style={{ marginTop: "1.5rem" }}>
-        <Row style={{ alignItems: "center" }}>
+    <div
+      style={{
+        width: "90%",
+        margin: "0 auto",
+        padding: "2.5rem",
+      }}
+    >
+      <Container fluid className="home-section">
+        <Row className="home-content">
           <Col md={6}>
             <div className="headings">
               <h1>

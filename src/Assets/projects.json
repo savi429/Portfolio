@@ -4,7 +4,7 @@
             
             "role":"Senior Frontend Developer",
             "duration":"Jul 2021 - April 2023",
-            "description":"Project Management System for the Qatar Airways Group.",
+            "description":"In a recent project, I developed an Airways crew management system using React, Redux, AG-Grid-React, and Webpack. The system managed crew notes, inquiries, performance plans, and meeting schedules. I created user-friendly modules and integrating backend APIs.",
             "company":"Cognizant"
            
 
@@ -12,7 +12,7 @@
         {
             "role":"Software Analyst",
             "duration":"Feb 2017 - Jul 2021",
-            "description":"Project Management System for the Qatar ",
+    "description":"I designed responsive UIs with React.js for ecommerce, enterprise, and healthcare apps, using Redux for state management, integrating APIs, optimizing performance, and implementing authentication. I developed reusable components, streamlined forms, ensured code quality, and collaborated in Agile Scrum while mentoring juniors"            ,
             "company":"PurpleTalk"
            
 
