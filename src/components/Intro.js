@@ -20,7 +20,8 @@ const Intro = () => {
                 airways, enterprise, healthcar, ecommerce
               </p>
               <p>
-                I always staying up to date with latest trends and technologies{" "}
+                I am always staying up to date with latest trends and
+                technologies{" "}
               </p>
             </section>
           </Col>
