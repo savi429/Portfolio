@@ -52,7 +52,7 @@ function Resume() {
           </Button>
         </Row>
 
-        <Row className="resume">
+        {/* <Row className="resume">
           <Document file={myResume} className="d-flex justify-content-center">
             <Page pageNumber={pageNumber} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
@@ -82,7 +82,7 @@ function Resume() {
             <AiOutlineDownload />
             &nbsp;Download CV
           </Button>
-        </Row>
+        </Row> */}
       </Container>
     </div>
   );

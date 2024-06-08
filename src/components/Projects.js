@@ -1,7 +1,7 @@
 import jsonData from "./../Assets/projects.json";
 import Project from "./Project";
 import { Container, Row, Col } from "react-bootstrap";
-import Personal from "./Personal";
+// import Personal from "./Personal";
 const Projects = () => {
   return (
     <Container
@@ -9,7 +9,6 @@ const Projects = () => {
       style={{
         width: "90%",
         margin: "0 auto",
-        border: "1px solid white",
         padding: "2.5rem",
       }}
     >
